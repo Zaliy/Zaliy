@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaliy
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning automation and crawling.
-- 📫 QQ：486394777  ...
+- 📫 QQ：486394777.
 
 <!---
 Zaliy/Zaliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
