@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zaliy
+- 👋 Hi, I’m @Coral Sea
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning automation and crawling.
 - 📫 QQ：486394777.
